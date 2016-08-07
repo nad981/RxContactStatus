@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    >
+
+    <EditText
+        android:id="@+id/member_et_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="40dp"
+        android:hint="Enter Name ..."
+        >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:layout_width="346dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Phone Number.."
+        android:id="@+id/member_et_ph"
+        />
+
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/member_image"
+        android:background="@drawable/girl"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="fitCenter"/>
+
+    <Button
+        android:id="@+id/add_bt_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="ADD"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
