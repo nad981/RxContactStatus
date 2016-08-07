@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Akproj</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="title_activity_activity_three">ActivityThree</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_compose">Compose</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_read">Read</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Write">Write</string>
+    <string name="TTL1">TTL</string>
+    <string name="TTL2">TTL</string>
+    <string name="TTL3">TTL</string>
+    <string name="delete">delete</string>
+    <string name="BodyText">BODY</string>
+    <string name="ReplyButton">Reply</string>
+    <string name="Name">Name</string>
+    <string name="Reply">Reply</string>
+    <string name="ServerAddress">Server Address</string>
+    <string name="UserName">UserName</string>
+    <string name="Public_Key">Public Key</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
