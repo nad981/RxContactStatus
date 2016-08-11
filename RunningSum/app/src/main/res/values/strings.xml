@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">RunningSum</string>
-    <string name="action_settings">Settings</string>
-    <string name="text">N cannot be greater than 10 and less than 3 </string>
-</resources>
